@@ -1,0 +1,9 @@
+.pytest_cache
+*.pyc
+.idea
+docs/_build
+docs/_static
+docs/_templates
+build
+dist
+*.egg-info
